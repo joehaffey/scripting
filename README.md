@@ -1,4 +1,2 @@
 # scripting
-My exploits with scripting languages:  Python, PHP, Ruby, etc
-
-Here I showcase my skills with the various scripting languages that are used in web development.
+These are my exploits with the various scripting languages used in web development.  Right now, I'm learning Python but I plan to add PHP, Ruby, and the scripting languages used with the various open source packages.  
