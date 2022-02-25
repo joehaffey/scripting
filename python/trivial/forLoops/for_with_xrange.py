@@ -12,4 +12,4 @@ repeat = range(times)
 
 #the loop
 for again in repeat:
-	print('up yours mother fucker')
+	print('Yo, sup bud')
